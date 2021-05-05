@@ -1,6 +1,6 @@
 # proba
 # Игра для Яндекс Алисы “Путь истины”
-![логотип](https://psv4.userapi.com/c536436/u175636826/docs/d40/5a754fbc5d58/Bez_nazvania80_20210505210018.png?extra=BFZpxCz06feKuXXtBBoCnoVTwahBYzRghCr4MQuF4lcc3etJyJDBUlg5cVyefsB1EY7azhXZ81WlHPWqdNum18w-jpe3RoeFDDOlRxu44O5N6hY4W6g4wLsn1HFkGFlTqOGeWxM97pT67GsxGT2cOfFC)
+![логотип](https://psv4.userapi.com/c537232/u175636826/docs/d21/87104b6e3e86/Bez_nazvania63_20210423154840.png?extra=C2etgVYGzFa4ugA0Bekr5lwAo3VB4ZPlQ9jPW8Q0-EHd_VUUEL4tZtLDKQ2AHiPJo9QmmuhU1i2WeIrqsOYP-DgfjZnl7pYqZyaX8JKhC7t8lI9JjGaNLiARBAeFW4xcR75any5RVuhNqpA82fSWiS1f)
 ## Описание программы
 
 Интерактивный квест про принцессу Элитию, которая решает выбраться из заточения в замке. Игра встроена в Яндекс Алису и подходит для всей семьи!
