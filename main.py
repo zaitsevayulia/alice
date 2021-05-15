@@ -81,6 +81,8 @@ def handle_dialog(request, response, user_storage):
         return response, user_storage
 
 
+
+
 def get_buttons(action):
     actions = list(action)
     actions = ''.join(actions)
