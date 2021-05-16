@@ -24,9 +24,9 @@
 ## Как работает программа?
 Код написан полностью на языке Python
 ```
-***def*** handle_dialog(request, response, user_storage):
+def handle_dialog(request, response, user_storage):
 
-    ***if*** request.is_new_session:
+    if request.is_new_session:
         user_storage = {}
         response.set_text('объяснялочка что здесь происходит и начало, чтобы уже можно было выбрат разветвление!'
                           'Для завершения игры скажите "конец игры".\n')
@@ -34,7 +34,7 @@
                              {'title': 'branch 2', 'hide': True}])
         return response, user_storage
 
-    ***else***:
+    else:
         # Обрабатываем ответ пользователя.
         if request.command.lower() == 'конец игры':
             response.set_text('Спасибо за игру!\n' + 'До встречи!')
